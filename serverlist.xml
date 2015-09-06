@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<serverlist>
+    <server zoneid="0" name="云服测试" status="0" payzoneid="0">
+    	<gate host="yun1.jinglungame.net" port="29001"/>
+	</server>
+
+	<server zoneid="2" name="稳定测试" status="1" payzoneid="0">
+		<gate host="192.168.5.17" port="29002"/>
+        <gate host="192.168.5.17" port="29008"/>
+	</server>
+
+	<server zoneid="3" name="战斗测试" status="1" payzoneid="0">
+		<gate host="192.168.5.17" port="29003"/>
+	</server>
+
+	<server zoneid="4" name="策划测试" status="1" payzoneid="0">
+		<gate host="192.168.5.17" port="29004"/>
+	</server>
+
+	<server zoneid="20" name="测试29020" status="1" payzoneid="0">
+		<gate host="192.168.5.17" port="29020"/>
+	</server>
+    
+	<server zoneid="4095" name="测试29000" status="1" payzoneid="0">
+		<gate host="192.168.5.17" port="29000"/>
+	</server>
+
+	<server zoneid="10" name="测试29010" status="1" payzoneid="0">
+		<gate host="192.168.5.17" port="29010"/>
+	</server>
+
+	<server zoneid="1" name="支付测试" status="0" payzoneid="10231001">
+    	<gate host="yun1.jinglungame.net" port="29011"/>
+	</server>
+
+</serverlist>
