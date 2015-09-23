@@ -25,12 +25,8 @@
 		<gate host="192.168.5.17" port="29000"/>
 	</server>
 
-	<server zoneid="10" name="测试29010" status="1" payzoneid="0">
-		<gate host="192.168.5.17" port="29010"/>
-	</server>
-
-	<server zoneid="1" name="支付测试" status="0" payzoneid="10231001">
-    	<gate host="yun1.jinglungame.net" port="29011"/>
+	<server zoneid="b1" name="git newbranch" status="2" payzoneid="3">
+		<gate host="com.git.blackCatx" port="0001"/>
 	</server>
 
 </serverlist>
