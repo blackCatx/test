@@ -29,4 +29,8 @@
 		<gate host="com.git.blackCatx" port="0001"/>
 	</server>
 
+	<server zoneid="b2" name="git newbranch" status="3" payzoneid="3">
+		<gate host="com.git.blackCatx" port="0001"/>
+	</server>
+
 </serverlist>
