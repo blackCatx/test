@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+
+
+
+
 <serverlist>
+    <server zoneid="x1" name="git测试" status="1" payzoneid="2">
+    	<gate host="git.com.blackCatx" port="29001"/>
+	</server>
+
+
     <server zoneid="0" name="云服测试" status="0" payzoneid="0">
     	<gate host="yun1.jinglungame.net" port="29001"/>
 	</server>
